@@ -15,7 +15,7 @@
 ---
 
 ### :man_technologist: About Me:
-Hey there! I'm Shefali, an accomplished MERN Stack Developer with 1.5 years of experience at Barclays. My academic journey has been marked by excellence, with a CGPA of 9.5/10 in B.Tech in Computer Science from K.J. Somaiya College of Engineering and a stellar 94% in Diploma in Computer Engineering from K.J. Somaiya Polytechnic. I bring a relentless passion for problem-solving and am recognized as a Data Structures & Algorithms expert in Python, known for conquering over 1000+ challenges on LeetCode with a contest rating of 1600+.
+Hey there! I'm Shefali, an accomplished MERN Stack Developer at Barclays. My academic journey has been marked by excellence, with a CGPA of 9.5/10 in B.Tech in Computer Science from K.J. Somaiya College of Engineering and a stellar 94% in Diploma in Computer Engineering from K.J. Somaiya Polytechnic. I bring a relentless passion for problem-solving and am recognized as a Data Structures & Algorithms expert in Python, known for conquering over 1000+ challenges on LeetCode with a contest rating of 1600+.
 
 ### :bulb: Technical Proficiencies:
 
@@ -36,7 +36,7 @@ Hey there! I'm Shefali, an accomplished MERN Stack Developer with 1.5 years of e
 :star2: Airbnb Clone: My second masterpiece, an Airbnb Clone, stands as a testament to my ability to build data-driven web applications that are not just functional but captivating.
 
 ### :bar_chart: Professional Achievements:
-In addition to my development prowess, I've made remarkable contributions to boost operational efficiency and data accessibility:
+In addition to my development prowess, I've made remarkable contributions at Barclays to boost operational efficiency and data accessibility:
 
 :globe_with_meridians: Integrated Knowledge Base and Articles, and developed a Monitoring Dashboard within the SmartSearch application using Angular and .NET on the ServiceNow platform. Result: A 30% reduction in mean time to resolution.
 
@@ -52,6 +52,10 @@ In addition to my development prowess, I've made remarkable contributions to boo
 
 ### :speech_balloon: Let's Connect and Innovate:
 I'm not just a developer, I'm an innovator on a mission. Whether it's cracking complex algorithms, architecting web wonders, or enhancing operational efficiency, I'm always eager to explore new horizons. If you're as passionate about cutting-edge technologies and innovation as I am, or if you see exciting opportunities on the horizon, let's connect and shape the future of tech together!
+- [![Linkedin Badge](https://img.shields.io/static/v1?label=LinkedIn&message=ShefaliPrajapati&color=%230077b5&logo=linkedIn&logoColor=%230077b5)](https://www.linkedin.com/in/shefaliprajapati/)
+- [![Leetcode Badge](https://img.shields.io/static/v1?label=LeetCode&message=PrajapatiShefali&color=%FFA116&logo=leetcode&logoColor=%FFA116)](https://leetcode.com/shefaliprajapati/)
+- [![Twitter Badge](https://img.shields.io/badge/Twitter-ShefaliP7-blue?logo=twitter&logoColor=blue)](https://twitter.com/shefalip7)
+
 
 ---
 
